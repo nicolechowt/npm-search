@@ -1,0 +1,11 @@
+.app {
+  font-family: sans-serif;
+  padding: 3rem;
+  text-align: left;
+}
+
+@media (max-width: 480px) {
+  .app {
+    padding: 1rem;
+  }
+}
